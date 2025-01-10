@@ -1,0 +1,35 @@
+@model CoreMVC.Models.Staff
+
+@{
+    ViewData["Title"] = "刪除員工";
+}
+
+<h1>刪除員工</h1>
+
+<!-- 刪除確認訊息 -->
+<h3>您確定要刪除此員工嗎？</h3>
+
+<div>
+    <!-- 顯示員工詳細資料 -->
+    <dl class="row">
+        <dt class="col-sm-2">姓名</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Name)</dd>
+
+        <dt class="col-sm-2">職位</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Position)</dd>
+
+        <dt class="col-sm-2">薪資</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Salary)</dd>
+    </dl>
+
+    <!-- 刪除確認表單 -->
+    <form asp-action="Delete" method="post">
+        <!-- 隱藏欄位：員工 ID，用於傳遞刪除的目標 -->
+        <input type="hidden" asp-for="Id" />
+
+        <!-- 刪除按鈕 -->
+        <button type="submit" class="btn btn-danger">刪除</button>
+        <!-- 返回列表按鈕 -->
+        <a asp-action="Index" class="btn btn-secondary">取消</a>
+    </form>
+</div>

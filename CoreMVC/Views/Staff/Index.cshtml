@@ -1,0 +1,56 @@
+@model IEnumerable<CoreMVC.Models.Staff>
+
+@{
+    ViewData["Title"] = "員工列表";
+}
+
+<h1>員工列表</h1>
+
+<!-- 新增員工的連結 -->
+<p>
+    <a asp-action="Create" class="btn btn-primary">新增員工</a>
+</p>
+
+<!-- 顯示員工資料表 -->
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                <!-- 顯示員工編號 -->
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th>
+                <!-- 顯示員工姓名 -->
+                @Html.DisplayNameFor(model => model.First().Name)
+            </th>
+            <th>
+                <!-- 顯示員工職位 -->
+                @Html.DisplayNameFor(model => model.First().Position)
+            </th>
+            <th>
+                <!-- 顯示員工薪資 -->
+                @Html.DisplayNameFor(model => model.First().Salary)
+            </th>
+            <th>操作</th> <!-- 操作欄 -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Id)</td> <!-- 員工編號 -->
+                <td>@Html.DisplayFor(modelItem => item.Name)</td> <!-- 員工姓名 -->
+                <td>@Html.DisplayFor(modelItem => item.Position)</td> <!-- 員工職位 -->
+                <td>@Html.DisplayFor(modelItem => item.Salary)</td> <!-- 員工薪資 -->
+                <td>
+                    <!-- 編輯操作 -->
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">編輯</a>
+                    <!-- 查看詳細資料 -->
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">查看</a>
+                    <!-- 刪除操作 -->
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">刪除</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

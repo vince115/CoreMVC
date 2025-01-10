@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\MVCtest\\CoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\views\\staff\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\views\\staff\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\views\\staff\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\views\\staff\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\views\\staff\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\views\\staff\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\views\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\views\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|d:\\dev\\mvctest\\coremvc\\coremvc\\views\\staff\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CBA775-E591-4551-9AA3-17820B15EBF1}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\views\\staff\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T09:00:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreMVC\\appsettings.json",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\appsettings.json",
+              "RelativeToolTip": "CoreMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T08:22:41.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Views\\Staff\\Index.cshtml",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Index.cshtml",
+              "RelativeToolTip": "CoreMVC\\Views\\Staff\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T07:54:48.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "htmlpage.html",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\htmlpage.html",
+              "RelativeDocumentMoniker": "CoreMVC\\Views\\htmlpage.html",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\htmlpage.html",
+              "RelativeToolTip": "CoreMVC\\Views\\htmlpage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-10T07:46:09.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:29:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "CoreMVC\\Controllers\\StaffController.cs",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "CoreMVC\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAUwJoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:35:38.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "CoreMVC\\Models\\Staff.cs",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Models\\Staff.cs",
+              "RelativeToolTip": "CoreMVC\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:13:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Details.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Views\\Staff\\Details.cshtml",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Details.cshtml",
+              "RelativeToolTip": "CoreMVC\\Views\\Staff\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T08:09:47.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CoreMVC\\Program.cs",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Program.cs",
+              "RelativeToolTip": "CoreMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:37:59.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "CoreMVC\\Models\\DBContext.cs",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Models\\DBContext.cs",
+              "RelativeToolTip": "CoreMVC\\Models\\DBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:28:00.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Views\\Staff\\Create.cshtml",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Create.cshtml",
+              "RelativeToolTip": "CoreMVC\\Views\\Staff\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T07:53:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Views\\Staff\\Delete.cshtml",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Delete.cshtml",
+              "RelativeToolTip": "CoreMVC\\Views\\Staff\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T07:59:50.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Views\\Staff\\Edit.cshtml",
+              "ToolTip": "D:\\Dev\\MVCtest\\CoreMVC\\CoreMVC\\Views\\Staff\\Edit.cshtml",
+              "RelativeToolTip": "CoreMVC\\Views\\Staff\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T07:59:35.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

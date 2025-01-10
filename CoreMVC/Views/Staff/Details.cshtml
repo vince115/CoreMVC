@@ -1,0 +1,28 @@
+@model CoreMVC.Models.Staff
+
+@{
+    ViewData["Title"] = "員工詳細資料";
+}
+
+<h1>員工詳細資料</h1>
+
+<!-- 員工詳細資料顯示 -->
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">姓名</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Name)</dd>
+
+        <dt class="col-sm-2">職位</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Position)</dd>
+
+        <dt class="col-sm-2">薪資</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Salary)</dd>
+    </dl>
+
+    <!-- 操作按鈕 -->
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">編輯</a>
+        <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">刪除</a>
+        <a asp-action="Index" class="btn btn-secondary">返回列表</a>
+    </div>
+</div>
