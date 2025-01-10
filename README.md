@@ -1,3 +1,3 @@
 # Core MVC
 
-![專案圖片](docs/images/CoreMVC_Staff_example.jpg "Project Image")
+![專案圖片](https://github.com/vince115/CoreMVC/blob/main/CoreMVC/docs/images/CoreMVC_Staff_example.jpg "Project Image")
